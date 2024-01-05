@@ -1,6 +1,6 @@
 ## Optimizing Social Ad Campaigns
 
-This repository contains the code and analysis for a data analysis project focused on optimizing social ad campaigns to drive higher conversion rates. The project aimed to answer key business questions and provide actionable insights for improving campaign performance.
+a data analysis project focused on optimizing social ad campaigns to drive higher conversion rates. The project aimed to answer key business questions and provide actionable insights for improving campaign performance.
 
 ### Project Overview
 In this project, I utilized Excel for data cleaning and preparation, and Tableau for descriptive analytics. The analysis was conducted on a dataset consisting of 916 social ad campaigns.
